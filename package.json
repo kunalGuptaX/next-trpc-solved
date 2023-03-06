@@ -44,7 +44,7 @@
     "@faker-js/faker": "^7.5.0",
     "@playwright/test": "^1.26.0",
     "@tsconfig/node18": "^1.0.1",
-    "@types/node": "^18.7.18",
+    "@types/node": "^18.14.6",
     "@types/react": "^18.0.21",
     "@typescript-eslint/eslint-plugin": "^5.38.0",
     "@typescript-eslint/parser": "^5.38.0",
